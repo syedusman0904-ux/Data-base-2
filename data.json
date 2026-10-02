@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 999.99,
+      "in_stock": true
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 25.5,
+      "in_stock": true
+    },
+    {
+      "id": 3,
+      "name": "Keyboard",
+      "price": 75.0,
+      "in_stock": false
+    },
+    {
+      "id": 4,
+      "name": "Monitor",
+      "price": 199.99,
+      "in_stock": true
+    },
+    {
+      "id": 5,
+      "name": "Webcam",
+      "price": 89.95,
+      "in_stock": false
+    }
+  ],
+  "categories": [
+    "Electronics",
+    "Accessories",
+    "Peripherals"
+  ],
+  "last_updated": "2026-10-03"
+}
